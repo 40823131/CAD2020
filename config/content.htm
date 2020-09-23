@@ -1,10 +1,10 @@
-<h1>W1</h1>
-<h2>《隨身系統安裝》</h2>
+<h1><span color="#00CACA" style="color: #00caca;">W1</span></h1>
+<h2><span color="#0080ff" style="color: #0080ff;">《隨身系統安裝》</span></h2>
 <p>下載fall2020.7z後解壓縮檔至隨身碟，隨後從網路上下載portablegit安裝選擇裝入隨身系統中的Data資料夾中，修改隨身系統之start.bat設定，後重啟隨身系統，以便後續使用git指令進行clone倉儲、建立網頁、網頁維護，利用［pip list］查詢已安裝之套件，利用［pip install］指令安裝［pelican,leo,markdown,lxml,bs4,flask,flask_cors］等套件。</p>
 <p><img alt="" height="741" src="/images/startbat.png" width="577"/></p>
 <p></p>
 <p>修改完後的start.bat檔案</p>
-<h2>《分組作業》</h2>
+<h2><span color="#8000ff" style="color: #8000ff;">《分組作業》</span></h2>
 <p>我分配到的是使用inventor繪製<a href="http://mde.tw/cad2020/downloads/Solidworks%20%E9%9B%B6%E4%BB%B6%E7%B9%AA%E5%9C%96%E7%B7%B4%E7%BF%921.pdf">Solidworks 零件繪圖練習1.pdf</a>中的1至15題，如下。</p>
 <p>1.</p>
 <p><img alt="" height="544" src="/images/01.jpg" width="1101"/></p>
@@ -37,5 +37,61 @@
 <p>15.</p>
 <p><img alt="" height="545" src="/images/15.jpg" width="1101"/></p>
 <p></p>
-<h1>W2</h1>
-<p><a href="https://github.com/mdecourse/cmsimde"></a></p>
+<h1><span color="#AAAAFF" style="color: #aaaaff;">W2</span></h1>
+<h1>常用指令&amp;語法</h1>
+<h2>git指令 </h2>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">//設定用戶名
+git config --global user.name "your_name"
+ 
+//設定用戶信箱位址
+git config --global user.email "your_name@example.com"
+
+//複製現有倉儲
+git clone &lt;倉儲網址&gt;
+
+//新增全部更改過的檔案至暫存區域
+git add .
+
+//將全部檔案從暫存區域中移除
+git reset .
+
+//提交並附上記錄之名稱
+git commit -m "commit message"
+
+//合併近端遠端儲存庫
+git pull
+
+//將暫存區域之檔案推送至遠端
+git push
+
+//擷取子目錄
+git submodule add </pre>
+<h2>pip指令</h2>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">//安裝套件
+pip install
+
+//更新套件
+pip install -U 
+
+//移除套件
+pip uninstall
+
+//查詢安裝過之套件清單
+pip list</pre>
+<h2>HTML語法</h2>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">//超連結
+&lt;a href="連結網址"&gt;連結名稱&lt;/a&gt;
+
+//普通分隔線
+&lt;hr&gt;
+
+//彩色分格線
+&lt;hr color=色號&gt;
+
+//文字、圖片置中
+&lt;center&gt;&lt;/center&gt;
+
+//文字色彩調整
+&lt;span color="色號" style="color:色號;"&gt;字&lt;/span&gt;</pre>
+<p></p>
+<hr color="#ff8000"/>

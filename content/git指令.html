@@ -133,12 +133,34 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">W1 << <a href='W1.html'>Previous</a> <a href='《分組作業》.html'>Next</a> >> 《分組作業》<br /><h1>《隨身系統安裝》</h1>
-<p>下載fall2020.7z後解壓縮檔至隨身碟，隨後從網路上下載portablegit安裝選擇裝入隨身系統中的Data資料夾中，修改隨身系統之start.bat設定，後重啟隨身系統，以便後續使用git指令進行clone倉儲、建立網頁、網頁維護，利用［pip list］查詢已安裝之套件，利用［pip install］指令安裝［pelican,leo,markdown,lxml,bs4,flask,flask_cors］等套件。</p>
-<p><img alt="" height="741" src="./../images/startbat.png" width="577"/></p>
-<p></p>
-<p>修改完後的start.bat檔案</p>
-<br />W1 << <a href='W1.html'>Previous</a> <a href='《分組作業》.html'>Next</a> >> 《分組作業》</div>
+    <div id="tipue_search_content">常用指令&語法 << <a href='常用指令&語法.html'>Previous</a> <a href='pip指令.html'>Next</a> >> pip指令<br /><h1>git指令</h1>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">//設定用戶名
+git config --global user.name "your_name"
+ 
+//設定用戶信箱位址
+git config --global user.email "your_name@example.com"
+
+//複製現有倉儲
+git clone &lt;倉儲網址&gt;
+
+//新增全部更改過的檔案至暫存區域
+git add .
+
+//將全部檔案從暫存區域中移除
+git reset .
+
+//提交並附上記錄之名稱
+git commit -m "commit message"
+
+//合併近端遠端儲存庫
+git pull
+
+//將暫存區域之檔案推送至遠端
+git push
+
+//擷取子目錄
+git submodule add </pre>
+<br />常用指令&語法 << <a href='常用指令&語法.html'>Previous</a> <a href='pip指令.html'>Next</a> >> pip指令</div>
         
     <!-- footer -->
       <div class="container">
