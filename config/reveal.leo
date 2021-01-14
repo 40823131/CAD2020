@@ -359,7 +359,8 @@ vertical: body pane on the botton</t>
     &lt;!--[if lt IE 9]&gt;
     &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
     &lt;![endif]--&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
 &lt;/div&gt;</t>
