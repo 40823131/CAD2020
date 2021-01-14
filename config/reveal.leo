@@ -18,50 +18,20 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20200818170328.1"><vh>封面投影片</vh>
+<v t="123.20210114022852.1"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
-<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
-<v t="leo.20200818194751.1"><vh>slide 12</vh></v>
-<v t="leo.20200818194812.1"><vh>slide 13</vh>
-<v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
+<v t="123.20210114024650.1"><vh>目錄</vh>
+<v t="123.20210114024650.2"><vh>目錄內容</vh></v>
 </v>
-<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
-<v t="leo.20200818195039.1"><vh>slide 15</vh></v>
-<v t="leo.20200818195105.1"><vh>slide 16</vh>
-<v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
-<v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
-<v t="leo.20200818195305.1"><vh>slide 16-3</vh></v>
-<v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
-<v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
+<v t="123.20210114110128.1"><vh>ALL</vh>
+<v t="123.20210114103230.1"><vh>初始構想</vh>
+<v t="123.20210114103230.2"><vh>參考影片內容</vh></v>
 </v>
-<v t="leo.20200818195147.1"><vh>slide 17</vh></v>
-<v t="leo.20200818195403.1"><vh>slide 18</vh></v>
-<v t="leo.20200818195426.1"><vh>slide 19</vh></v>
-<v t="leo.20200818195445.1"><vh>slide 20</vh></v>
-<v t="leo.20200818195502.1"><vh>slide 21</vh></v>
-<v t="leo.20200818195520.1"><vh>slide 22</vh></v>
-<v t="leo.20200818195541.1"><vh>slide 23</vh></v>
-<v t="leo.20200818195604.1"><vh>slide 24</vh></v>
-<v t="leo.20200818195625.1"><vh>slide 25</vh></v>
-<v t="leo.20200818195643.1"><vh>slide 26</vh></v>
-<v t="leo.20200818195701.1"><vh>slide 27</vh></v>
-<v t="leo.20200818195715.1"><vh>slide 28</vh></v>
-<v t="leo.20200818195731.1"><vh>slide 29</vh></v>
-<v t="leo.20200818195748.1"><vh>slide 30</vh></v>
-<v t="leo.20200818195800.1"><vh>slide 31</vh></v>
+<v t="123.20210114110206.1"><vh>newHeadline</vh>
+<v t="123.20210114111701.1"><vh>newHeadline</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -71,6 +41,182 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="123.20210114022852.1">## cad2020
+
+### &lt;span style = "color:orange"&gt;40823131 專案報告&lt;/span&gt;
+ 
+
+&lt;small&gt;
+
+Created by [40823131](https://github.com/40823131/cad2020)
+
+&lt;/small&gt;
+
+***************************************************
+
+&lt;small&gt;
+
+[個人倉儲](https://github.com/40823131/cad2020)
+
+[個人網頁](https://40823131.github.io/cad2020/content/index.html)
+
+[小組倉儲](https://github.com/40823131/cad2020ag3)
+
+[小組網頁](https://40823131.github.io/cad2020ag3/content/index.html)
+
+&lt;/small&gt;</t>
+<t tx="123.20210114024650.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="123.20210114024650.2">## &lt;span style = "color:pink"&gt; 目錄 &lt;/span&gt;
+
+
+&lt;small&gt;
+
+* [初始構想](https://40823131.github.io/cad2020/reveal/index.html#/2) 
+* [AutoCAD設計繪圖歷史版本](https://40823131.github.io/cad2020/reveal/index.html#/2/2)
+* [3D繪圖](https://40823131.github.io/cad2020/reveal/index.html#/3)
+
+* [Coppeliasim模擬](https://40823131.github.io/cad2020/reveal/index.html#/4)
+  * [version1.0.0](https://40823131.github.io/cad2020/reveal/index.html#/5)
+  * [version2.0.0](https://40823131.github.io/cad2020/reveal/index.html#/6)
+  * [version3.0.0](https://40823131.github.io/cad2020/reveal/index.html#/7)
+  * [version4.0.0](https://40823131.github.io/cad2020/reveal/index.html#/8) 
+  * [version5.0.0](https://40823131.github.io/cad2020/reveal/index.html#/9)
+  
+* [小組專案個人心得](https://40823131.github.io/cad2020/reveal/index.html#/10)     
+
+&lt;/small&gt;</t>
+<t tx="123.20210114103230.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;初始構想&lt;/span&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="123.20210114103230.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KWNZK7QKhw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+**************************************************
+
+&lt;small&gt; [回到目錄](https://40823131.github.io/cad2020/reveal/index.html#/1) &lt;/small&gt;
+
+</t>
+<t tx="123.20210114110128.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="123.20210114110206.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+&lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;&lt;big&gt; AutoCAD設計繪圖歷史版本 &lt;/big&gt;&lt;/span&gt;
+* [壹號機CAD檔](https://drive.google.com/file/d/1EtmcwYhZR41TNi731ZglXdmURbvxDj4S/view?usp=sharing)
+* [貳號機CAD檔](https://drive.google.com/file/d/1E1z665krcrbZF-7BYu1gPaJWhRkbTuyG/view?usp=sharing)
+* [參號機CAD檔](https://drive.google.com/file/d/1Sf_xMvQfD1LXeViPPjsJhhIHG_yTM3Wy/view?usp=sharing)
+
+***************************************************
+
+&lt;small&gt; [回到目錄](https://40823131.github.io/cad2020/reveal/index.html#/1) &lt;/small&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;3D圖檔&lt;/span&gt;
+
+[inventer2018(.ipt)圖檔](https://drive.google.com/file/d/1RqWqTuh6Qs0v3_lekJZcekwrUSwJ7r3y/view?usp=sharing)
+
+&lt;img alt="" height="550" src="/images/3dver2018.png" width="750"&gt;
+
+&lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;Coppeliasim模擬&lt;/span&gt;
+
+  * [version1.0.0](https://40823131.github.io/cad2020/reveal/index.html#/5)
+  * [version2.0.0](https://40823131.github.io/cad2020/reveal/index.html#/6)
+  * [version3.0.0](https://40823131.github.io/cad2020/reveal/index.html#/7)
+  * [version4.0.0](https://40823131.github.io/cad2020/reveal/index.html#/8) 
+  * [version5.0.0](https://40823131.github.io/cad2020/reveal/index.html#/9)
+  
+&lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;version1.0.0&lt;/span&gt;
+&lt;small&gt;版本介紹:為最初之設計，可以看到車廂因配重不正確而嚴重傾斜，機構作動如下圖。&lt;/small&gt;
+&lt;img alt="" height="500" src="/images/pNBOG8pYAd.gif" width="700"&gt;
+
+&lt;/script&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;version2.0.0&lt;/span&gt;
+&lt;small&gt;版本介紹:此版本為了達到重力平衡而將車廂後中空部分填滿，雖有些許改善此問題，但成效不佳，為了達到更佳的穩定度，需要好好思考如何解決此問題!! &lt;/small&gt;
+&lt;img alt="" height="500" src="/images/Zol2iYWV0M.gif" width="700"&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;version3.0.0&lt;/span&gt;
+&lt;small&gt;版本介紹:這此改版大幅度修正了車廂搖晃之問題，利用加重纜車後方重量的方式達到配重效果。&lt;/small&gt;
+&lt;img alt="" height="500" src="/images/6KLOL1nVNB.gif" width="700"&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;version4.0.0&lt;/span&gt;
+&lt;small&gt;版本介紹:利用繪出各軸，做為參考移動joint解決了無法對到各工件軸心的問題，而之前version3.0.0版本中解決了車廂重心不穩搖晃問題後，此版本針對於鏟球機構以及接球的圓形軌道進行了設計以及模擬，也因軌道設計的部分而牽動車廂形狀的修改，以配合正常作動。&lt;/small&gt;
+&lt;img alt="" height="500" src="/images/cwXy5GKpwF (1).gif" width="575"&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;version5.0.0&lt;/span&gt;
+&lt;small&gt;版本介紹:新增Graph 路徑模擬，瞭解球完整作動一次時間，可以計算出球的頻率。可得f=1/40.2=0.024(hz) update by [40823152](https://40823152.github.io/cad2020/content/) &lt;/small&gt;
+&lt;img alt="" height="500" src="/images/version5.0.png" width="700"&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## &lt;span style = "color:pink"&gt;小組專案個人心得&lt;/span&gt;
+&lt;small&gt;
+    首先，擔任本組組長的同時也深深感受到自己領導能力上的不足深感抱歉，無法讓組員有足夠的向心力，每次開會也總是零星幾位組員在討論，因此我認為領導能力問題是我需要精進的重點之一。
+    此次專案經由討論後的目標選定、基本構思後，交由組員繪出AutoCAD檔案、再行分配各圖給分別4位組員繪出3D圖檔再回傳給我，進行coppeliasim模擬以及零件修改及重複模擬，在過程中發現構想與實際模擬後的結果其實會有差異，因此模擬後需要及時與繪圖人員溝通，此重點在分工中尤為重要。本組歷時一個多月才完成此專案，其中解決配重問題、修正軌道、解決干涉問題、檔案交接就耗用掉大把的時間。
+&lt;/small&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="123.20210114111701.1">## &lt;span style = "color:pink"&gt;AutoCAD設計繪圖&lt;/span&gt;
+
+**************************************************
+
+&lt;small&gt; [回到目錄](https://40823131.github.io/cad2020/reveal/index.html#/1) &lt;/small&gt;
+</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -183,7 +329,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;40823131 cad2020&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -205,448 +351,13 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
-    @others
+@others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
+<t tx="leo.20200818170328.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
+@others
     &lt;/script&gt;
 &lt;/section&gt;
-
 </t>
-<t tx="leo.20200818194812.1">&lt;section&gt;
-     @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
-    &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
-<t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
-    &lt;h2&gt;Themes&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js comes with a few themes built in: &lt;br&gt;
-        &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195105.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195147.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs javascript"&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195213.1">&lt;section data-background="#dddddd"&gt;
-    &lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-    &lt;/p&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195237.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png"&gt;
-    &lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195305.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-    &lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195323.1">&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000"&gt;
-    &lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-        &lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-        &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-    &lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818195403.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        You can override background transitions per-slide.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195426.1">&lt;section data-background-iframe="https://hakim.se" data-background-interactive&gt;
-    &lt;div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;"&gt;
-        &lt;h2&gt;Iframe Backgrounds&lt;/h2&gt;
-        &lt;p&gt;Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195445.1">&lt;section&gt;
-    &lt;h2&gt;Marvelous List&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;No order here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195502.1">&lt;section&gt;
-    &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-    &lt;ol&gt;
-        &lt;li&gt;One is smaller than...&lt;/li&gt;
-        &lt;li&gt;Two is smaller than...&lt;/li&gt;
-        &lt;li&gt;Three!&lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195520.1">&lt;section&gt;
-    &lt;h2&gt;Tabular Tables&lt;/h2&gt;
-    &lt;table&gt;
-        &lt;thead&gt;
-            &lt;tr&gt;
-                &lt;th&gt;Item&lt;/th&gt;
-                &lt;th&gt;Value&lt;/th&gt;
-                &lt;th&gt;Quantity&lt;/th&gt;
-            &lt;/tr&gt;
-        &lt;/thead&gt;
-        &lt;tbody&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Apples&lt;/td&gt;
-                &lt;td&gt;$1&lt;/td&gt;
-                &lt;td&gt;7&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Lemonade&lt;/td&gt;
-                &lt;td&gt;$2&lt;/td&gt;
-                &lt;td&gt;18&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Bread&lt;/td&gt;
-                &lt;td&gt;$3&lt;/td&gt;
-                &lt;td&gt;2&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/tbody&gt;
-    &lt;/table&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195541.1">&lt;section&gt;
-    &lt;h2&gt;Clever Quotes&lt;/h2&gt;
-    &lt;p&gt;
-        These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;The nice thing about standards is that there are so many to choose from&lt;/q&gt; and block:
-    &lt;/p&gt;
-    &lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-        &amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-        reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-    &lt;/blockquote&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195604.1">&lt;section&gt;
-    &lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-    &lt;p&gt;
-        You can link between slides internally,
-        &lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195625.1">&lt;section&gt;
-    &lt;h2&gt;Speaker View&lt;/h2&gt;
-    &lt;p&gt;There's a &lt;a href="https://revealjs.com/speaker-view/"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.&lt;/p&gt;
-    &lt;p&gt;Press the &lt;em&gt;S&lt;/em&gt; key to try it out.&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-    &lt;/aside&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195643.1">&lt;section&gt;
-    &lt;h2&gt;Export to PDF&lt;/h2&gt;
-    &lt;p&gt;Presentations can be &lt;a href="https://revealjs.com/pdf-export/"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-    &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195701.1">&lt;section&gt;
-    &lt;h2&gt;Global State&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and &lt;code&gt;"something"&lt;/code&gt;
-        will be added as a class to the document element when the slide is open. This lets you
-        apply broader style changes, like switching the page background.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195715.1">&lt;section data-state="customevent"&gt;
-    &lt;h2&gt;State Events&lt;/h2&gt;
-    &lt;p&gt;
-        Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-Reveal.on( 'customevent', function() {
-console.log( '"customevent" has fired' );
-} );
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195731.1">&lt;section&gt;
-    &lt;h2&gt;Take a Moment&lt;/h2&gt;
-    &lt;p&gt;
-        Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195748.1">&lt;section&gt;
-    &lt;h2&gt;Much more&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Right-to-left support&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/api/"&gt;Extensive JavaScript API&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/auto-slide/"&gt;Auto-progression&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/backgrounds/#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/keyboard/"&gt;Custom keyboard bindings&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
-    &lt;h1&gt;THE END&lt;/h1&gt;
-    &lt;p&gt;
-        - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
-        - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
